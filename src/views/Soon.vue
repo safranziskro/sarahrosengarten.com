@@ -3,7 +3,7 @@
     <a href="mailto:sarahfrosengarten@gmail.com">
         <img src="https://i.dailymail.co.uk/1s/2019/01/06/22/8191824-6562989-image-a-71_1546813442153.jpg" />
     </a>
-    change
+    
   </div>
 </template>
 
